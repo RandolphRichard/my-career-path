@@ -59,3 +59,26 @@
     border-radius: 15px;
     text-shadow: 0 0 5px rgb(252, 206, 1)
   }
+
+
+  /* HERO STYLES START */
+.hero {
+    background-image: url('/assets/img/abstract.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-attachment: fixed;
+    background-position: 80%;
+  }
+
+  .hero-cta {
+    width: 85%;
+    text-align: right;
+    margin: 3.5%;
+    color:#71d7f8;
+    font-size: 40px;
+    line-height: 6.2;
+  }
+  /* HERO STYLES START */
