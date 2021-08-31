@@ -9,7 +9,7 @@
   }
 
   header {
-      color: #71d7f8;
+    color: #71d7f8;
     padding: 20px 35px;
     background-color: #4b5a77;
     display: flex;
@@ -81,4 +81,169 @@
     font-size: 40px;
     line-height: 6.2;
   }
-  /* HERO STYLES START */
+  /* HERO STYLES end */
+
+  /* About me STYLES Start*/
+
+ .step {
+    margin: 20px auto;
+    padding-bottom: 50px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: left;
+    justify-content: space-between;
+  }
+  .step:last-child {
+    border-bottom: none;
+  }
+
+.step h2 {
+    color: #1148b8;
+    font-size: 40px;
+    flex: 1 30%;
+    padding:0 auto;
+    
+  }
+  .step-text {
+    flex: 150;
+  }
+
+  .step-text p {
+    border-left-style: solid;
+    padding: 20px;
+    line-height: 1.7;
+    color: #1148b8;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: left;
+    font-size: 18px;
+}
+
+/* About me STYLES END */
+
+/* Work STYLES START */
+.middle {
+    margin: 20px auto;
+    padding-bottom: 50px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: left;
+    justify-content: space-between;
+  }
+
+  .middle h2 {
+    color: #1148b8;
+    font-size: 40px;
+    flex: 1 30%;
+    padding:0 auto;
+    
+  }
+
+  .middle-text {
+    flex: 150;
+  }
+
+.middle-text nav {
+    border-left-style: solid;
+    padding: 20px;
+    line-height: 1.7;
+    color: #1148b8;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: left;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.middle-text a {
+    color: #1148b8;   
+}
+.middle-text nav ul {
+    list-style: none;
+}
+
+.middle-text nav ul {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+flex: 150;
+}
+
+.middle img{
+border:solid;
+flex: 1 12%;
+margin: 10px;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+.middle img :hover{
+color: gold;
+
+}
+  /* Work STYLES END */
+
+
+/* Contact me STYLES START */
+.foot {
+    margin: 20px auto;
+    padding-bottom: 50px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: left;
+    justify-content: space-between;
+  }
+
+  .foot h2 {
+    color: #1148b8;
+    font-size: 40px;
+    flex: 1 30%;
+    padding:0 auto;
+    
+  }
+
+  .foot-text {
+    flex: 150;
+  }
+
+.foot-text nav {
+    border-left-style: solid;
+    padding: 20px;
+    line-height: 1.7;
+    color: #1148b8;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: left;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.foot-text a {
+    color: #1148b8;   
+}
+.foot-text nav ul {
+    list-style: none;
+}
+
+.foot-text nav ul {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+flex: 150;
+}
+
+  /* Contact me STYLES END */
+
+
+  
