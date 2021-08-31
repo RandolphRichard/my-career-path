@@ -176,7 +176,7 @@ flex: 150;
 }
 
 .middle img{
-border:solid;
+border:solid 5px;
 flex: 1 12%;
 margin: 10px;
 display: flex;
@@ -188,6 +188,39 @@ flex-wrap: wrap;
 color: gold;
 
 }
+
+/* Putting Text-Box on images Start */
+  .run {
+    position: relative;
+  }
+  
+  .search {
+    position: relative;
+  }
+
+  
+  .text-block1 {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: #71d7f8;
+    color: #0954a9;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .text-block2 {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: #71d7f8;
+    color: #0954a9;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  /* Putting Text-Box on images End */
+
   /* Work STYLES END */
 
 
@@ -243,7 +276,4 @@ flex-wrap: wrap;
 flex: 150;
 }
 
-  /* Contact me STYLES END */
-
-
-  
+/* Contact me STYLES END */
