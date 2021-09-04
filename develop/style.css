@@ -76,7 +76,7 @@
  
 /* The background was downloaded from https://www.freepik.com/photos/background'Background photo created by kjpargeter -*/
   .hero {
-    background-image: url('/develop/assets/img/abstract.jpg');
+    background-image: url('./images/abstract.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
