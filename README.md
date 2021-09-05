@@ -32,7 +32,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * I have also created a sample of my resume as a second HTML page.
 *I have also linked my personal website on some of the work section link, But it's under construction right now. 
 *2 css files were created. 
-*all the links are targeted somewhere
+*all the links are targeted somewhere and will open on a new window tab.
 *I have downloaded a picture from my freepik account and credited the designer on the CSS file.
 Well this is the assignment 😊 . I tried as much as I can to cover a lot of @Media screen . 
 
