@@ -34,7 +34,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * 2 css files were created. 
 * all the links are targeted somewhere and will open on a new window tab.
 * I have downloaded a picture from my freepik account and credited the designer on the CSS file.
-Well this is the assignment 😊 . I tried as much as I can to cover a lot of @Media screen . 
+* Added Flexbox elements on the Website , some pseudo-class.
+* Well this is the assignment 😊 . I wanted to keep the website clean and simple. I tried as much as I can to cover a lot of @Media screen . 
 
 
 ## Website
